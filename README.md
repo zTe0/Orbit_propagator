@@ -5,6 +5,7 @@ TOTAL NUMBER OF LINES:
 821 <- TLEsearch_tool  
 180 <- plots_LLA  
 
->RUN "GUI_TLE2LLA.mlapp" TO POPULATE THE BASE WORKSPACE WITH EARTH STATION COORDINATES, LLA, ECI & ECEF COORDINATES OF THE CONSTELLATIONS, together with GUI_DATA structure collecting extra information on the constellations' orbits and on the app implementation.
+- RUN "GUI_TLE2LLA.mlapp" TO POPULATE THE BASE WORKSPACE WITH EARTH STATION COORDINATES, LLA, ECI & ECEF COORDINATES OF THE CONSTELLATIONS, together with GUI_DATA structure collecting extra information on the constellations' orbits and on the app implementation.
 
->FOLLOW THE TOOLTIPS WITHIN THE APP FOR MORE INFO ON THE IMPLEMENTATION
+- FOLLOW THE TOOLTIPS WITHIN THE APP FOR MORE INFO ON THE IMPLEMENTATION
+- Manual is part of the MSc thesis work available at: https://hdl.handle.net/10589/227983
